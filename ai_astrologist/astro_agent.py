@@ -1,4 +1,4 @@
-# test edit from Cursor_1
+# test edit from Cursor (astro-rabbit-live)
 """
 Основной модуль AI-астролога AstroRabbit
 """
